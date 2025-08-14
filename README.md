@@ -15,13 +15,13 @@ Este proyecto ha sido desarrollado en Excel y puede ser visualizado con una vers
 # Resultados y Conclusiones
 En la muestra analizada se han identificado un total de 8500 pacientes diagnosticados con diabetes. Los resultados han sido organizados de forma demográfica y clínica o médica. De esta forma, se pueden identificar los factores clínicos de riesgo para el desarrollo de la diabetes y el perfil de aquellos pacientes que han sido diagnosticado con ella. 
 
--  **Demográficas**
+ **Demográficas**
   - La edad media de los pacientes con diabetes es de 61 años
   - El sexo más afectado por la diabetes en la muestra es el masculino. Se presenta un 52.4% de hombres con diabetes frente a un 47.5% en mujeres.
   - El área o estado donde se encuentran mayor número de diabeticos es Delaware (200 pacientes afectados)
   - La raza más afectada con mayor número de diabéticos es la Afroamericana. 
  
- - **Clínicas/Médicas**
+ **Clínicas/Médicas**
    
  De forma general, los pacientes con diabetes de media presentaban las siguientes métricas:
   - El nivel medio de glucosa en sangre era de 194.1mg/dl. Este nivel es considerado alto en términos médicos. 
