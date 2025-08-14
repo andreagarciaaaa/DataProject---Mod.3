@@ -32,9 +32,9 @@ Estas tres variables presentan altos niveles medios por lo que se puede interpre
 
 Ante estos números, se ha estudiado la correlación que existe entre estos tres factores y la diabetes. La correlación entre el peso y la diabetes era del 20%, siento este poco significativo para determinarla como factor de riesgo. Sin embargo, al estudiar la correlación entre los niveles de glucosa en sangre y la hemoglobina (hbA1c) presenta un 42% y un 40% respectivamente. Es decir, podemos establecer que tener altos niveles de estas dos variables en pacientes de la muestra pueden resultar en diagnosticos con diabetes. 
 
-Por último, se ha estudiado otras variables clínicas y de estilo de vida como el historial fumador y de enfermedades cardiacas. Sin embargo, los resultados no han sido significativos:
+Por último, se han estudiado otras variables clínicas y de estilo de vida como el historial fumador y de enfermedades cardiacas. Sin embargo, los resultados no han sido significativos:
 
-- Sólo el 11% del total de diabeticos de la muestra es fumador o lo ha sido a lo largo de su vida
+- Sólo el 11% del total de diabeticos de la muestra es fumador o lo ha sido a lo largo de su vida.
 - Sólo el 14.91% del total de diabeticos de la muestra presenta problemas cardíacos. 
 Con estos datos se puede interpretar que estas variables influirán poco a la hora de desarrollar diabetes. Por tanto, no las consideraría factores de alto riesgo en comparación con los niveles de glucosa y hemoglobina. 
 # Próximos pasos 
