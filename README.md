@@ -36,6 +36,7 @@ Por último, se han estudiado otras variables clínicas y de estilo de vida como
 
 - Sólo el 11% del total de diabeticos de la muestra es fumador o lo ha sido a lo largo de su vida.
 - Sólo el 14.91% del total de diabeticos de la muestra presenta problemas cardíacos. 
+
 Con estos datos se puede interpretar que estas variables influirán poco a la hora de desarrollar diabetes. Por tanto, no las consideraría factores de alto riesgo en comparación con los niveles de glucosa y hemoglobina. 
 # Próximos pasos 
 Con el análisis actual se puede extraer una buena base para la comprensión de los datos clínicos. No obstante, siempre se pueden implementar mejoras o proponer ampliaciones en el análisis de este proyecto:
