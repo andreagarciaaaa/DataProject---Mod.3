@@ -15,13 +15,15 @@ Este proyecto ha sido desarrollado en Excel y puede ser visualizado con una vers
 # Resultados y Conclusiones
 En la muestra analizada se han identificado un total de 8500 pacientes diagnosticados con diabetes. Los resultados han sido organizados de forma demográfica y clínica o médica. De esta forma, se pueden identificar los factores clínicos de riesgo para el desarrollo de la diabetes y el perfil de aquellos pacientes que han sido diagnosticado con ella. 
 
--  **Demográficas** 
+-  **Demográficas**
+  
  - La edad media de los pacientes con diabetes es de 61 años
  - El sexo más afectado por la diabetes en la muestra es el masculino. Se presenta un 52.4% de hombres con diabetes frente a un 47.5% en mujeres.
  - El área o estado donde se encuentran mayor número de diabeticos es Delaware (200 pacientes afectados)
  - La raza más afectada con mayor número de diabéticos es la Afroamericana. 
  
  - **Clínicas/Médicas**
+   
  De forma general, los pacientes con diabetes de media presentaban las siguientes métricas:
  - El nivel medio de glucosa en sangre era de 194.1mg/dl. Este nivel es considerado alto en términos médicos. 
  - El nivel medio de hbA1c (hemoglobina) es de 6.93%. A partir del 6.5% de hemoglobina el nivel es considerado peligroso. 
@@ -34,6 +36,7 @@ Por último, se ha estudiado otras variables clínicas y de estilo de vida como 
 Con estos datos se puede interpretar que estas variables influirán poco a la hora de desarrollar diabetes. Por tanto, no las consideraría factores de alto riesgo en comparación con los niveles de glucosa y hemoglobina. 
 # Próximos pasos 
 Con el análisis actual se puede extraer una buena base para la comprensión de los datos clínicos. No obstante, siempre se pueden implementar mejoras o proponer ampliaciones en el análisis de este proyecto:
+
 - Desarrollar modelos predictivos básicos para estimar la probabilidad de la aparición de diabetes
 - Estudiar la evolución de los pacientes con y sin diabetes en el tiempo
 - Incorporar más variables adicionales de estilo de vida (actividad física, dieta..), geograficas y socioeconomicas para poder realizar un análisis más contextualizado. 
